@@ -1,4 +1,4 @@
-# CLIP Image-Search-Engine
+#Image-Search-Engine clip based
 
 ## Project Overview
 
