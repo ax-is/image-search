@@ -1,4 +1,4 @@
-# CLIP-Based Image Search Engine
+# CLIP Image Search Engine
 
 ## Project Overview
 
